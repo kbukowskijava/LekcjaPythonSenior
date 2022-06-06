@@ -1,10 +1,12 @@
+
+<          Chat         >
+--------------------------
+
 User 1 has joined the chat!
-User 1 has joined the chat!
-User 1 has joined the chat!
+User 1: witam
 User 2 has joined the chat!
-User 3 has joined the chat!
-User 1 has joined the chat!
-User 1 has left the chat.
-User 2 has joined the chat!
-User 1 has joined the chat!
+User 1: czesc
+User 1: ;)
+User 2: czesc, czy odrobiles prace domowa z Pythona?
+User 2 has left the chat.
 User 1 has left the chat.
