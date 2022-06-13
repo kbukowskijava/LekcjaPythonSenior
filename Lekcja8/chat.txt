@@ -1,0 +1,4 @@
+Użytkownik 1 dołączył do czatu ;)
+Użytkownik 2 dołączył do czatu ;)
+Użytkownik 1:czesc!
+Użytkownik 1 opuścił czat.
